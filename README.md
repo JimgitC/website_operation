@@ -18,7 +18,7 @@
 
 #### 示例：页面标题
 
-![](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/1.png)
+![页面标题](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/1.png "01.png")
 
 #### 更多信息
    + WCAG
@@ -30,7 +30,7 @@
 
 #### 示例：使用标题来组织内容
 
-![](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/2.png)
+![使用标题来组织内容](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/2.png "02.png")
 
 #### 更多信息
    + WCAG
@@ -46,7 +46,7 @@
 
 #### 示例：使用链接文本描述目标页面
 
-![](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/3.png)
+![使用链接文本描述目标页面](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/3.png "03.png")
 
 #### 更多信息
    + WCAG
@@ -58,7 +58,7 @@
 
 #### 示例：使用代替文本传达重要信息
 
-![](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/4.png)
+![使用代替文本传达重要信息](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/4.png "04.png")
 
 #### 更多信息
    + WCAG
@@ -82,9 +82,9 @@
 确保说明，指导和错误消息清晰，易于理解，并避免不必要的技术性语言。描述输入要求，例如日期格式。
 
 #### 示例：说明传达用户应提供哪些信息  
-![](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/5.png)  
+![说明传达用户应提供哪些信息](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/5.png "05.png")  
 #### 示例：错误指示问题所在以及可能的解决方法  
-![](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/6.png)  
+![错误指示问题所在以及可能的解决方法](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/6.png "06.png")  
 #### 更多信息
    + WCAG
        + [标签或说明3.3.2（理解3.3.2）](https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions)
@@ -99,7 +99,7 @@
    + 适当使用列表格式。
    + 考虑使用图像，插图，视频，音频和符号来帮助阐明含义。
 #### 示例：使内容易读易懂  
-![](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/7.png)  
+![使内容易读易懂](https://github.com/JimgitC/images/blob/master/Web_operation/2020_03_25/7.png "07.png")  
 #### 更多信息
    + WCAG
        + [阅读级别3.1.5（理解3.1.5)](https://www.w3.org/WAI/WCAG21/Understanding/reading-level)
